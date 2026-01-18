@@ -1,0 +1,4 @@
+mapRows=20
+mapCols=20
+agentCount=100
+timeStep=0.1

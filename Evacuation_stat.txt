@@ -1,0 +1,3 @@
+Evacuation Statistics
+Evacuated Agents: 0
+Total Time: 00:00
