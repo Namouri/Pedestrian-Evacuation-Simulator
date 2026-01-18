@@ -1,4 +1,4 @@
-# EvacuationPlan_simulation
+# Pedestrian-Evacuation-Simulator
 A Java‑based evacuation simulation using BFS pathfinding and agent‑based modeling. Built in a layered architecture with a focus on clean design, modularity, and clear separation of logic.
 
 <img width="500" height="300" alt="evacuationsystem" src="https://github.com/user-attachments/assets/1e2cf559-9fa2-44a8-899b-6be5083a5fd7" />
